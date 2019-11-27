@@ -34,7 +34,7 @@
         display: table-cell;
 
         @include respond(tab-land) {
-            background-image: url(/docs/img/nat-8.jpg);
+            background-image: url(../img/nat-8.jpg);
             background-size: cover;
             background-position: center;
             width: 40%;

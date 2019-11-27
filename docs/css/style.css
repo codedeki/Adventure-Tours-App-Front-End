@@ -557,7 +557,7 @@ body {
     display: table-cell; }
     @media (max-width: 75em) {
       .popup__left {
-        background-image: url(/docs/img/nat-8.jpg);
+        background-image: url(../img/nat-8.jpg);
         background-size: cover;
         background-position: center;
         width: 40%; } }
