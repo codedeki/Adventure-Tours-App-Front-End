@@ -1,4 +1,4 @@
-I made this site for a tourism service. Click the link here https://codedeki.github.io/Full-Stack-Shopping-Site-Front-End/ to see the site. Designed by Jonas Schmedtmann.
+I made this site for a tourism service. The site is viewable here: https://codedeki.github.io/Full-Stack-Shopping-Site-Front-End/. Designed by Jonas Schmedtmann.
 
 ## Front-End Web Development using modern practices including:
 * HTML
