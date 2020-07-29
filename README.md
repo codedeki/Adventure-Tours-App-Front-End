@@ -22,6 +22,6 @@ The site is viewable here: https://codedeki.github.io/Full-Stack-Shopping-Site-F
 
 _Note: Some features are incomplete as this site was built for fun._  
 
-An updated version of this project using NodeJS is viewable here https://adventure-tours-app.herokuapp.com/
+An updated version of this project using NodeJS is viewable here: https://adventure-tours-app.herokuapp.com/
 
 _Designed by Jonas Schmedtmann._
